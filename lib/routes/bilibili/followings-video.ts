@@ -14,7 +14,7 @@ export const route: Route = {
         requireConfig: [
             {
                 name: 'BILIBILI_COOKIE_*',
-                description: `BILIBILI_COOKIE_28169178: buvid3=669ACB39-495D-8DFC-07D7-50ED809F3F9336951infoc; b_nut=1724080136; _uuid=22C4B194-3D7D-8F10D-B103D-5211349F7106632891infoc; buvid_fp=75c000f1ef5c5627c308f863047b0055; buvid4=C92A63D0-3E18-B0C5-070B-DC496477314B37561-024081915-Wk9U09FdsaYSuZIK1RxlJw%3D%3D; enable_web_push=DISABLE; home_feed_column=5; browser_resolution=1699-933; header_theme_version=CLOSE; CURRENT_FNVAL=4048`,
+                description: 'BILIBILI_COOKIE_28169178: buvid3=669ACB39-495D-8DFC-07D7-50ED809F3F9336951infoc; b_nut=1724080136; _uuid=22C4B194-3D7D-8F10D-B103D-5211349F7106632891infoc; buvid_fp=75c000f1ef5c5627c308f863047b0055; buvid4=C92A63D0-3E18-B0C5-070B-DC496477314B37561-024081915-Wk9U09FdsaYSuZIK1RxlJw%3D%3D; enable_web_push=DISABLE; home_feed_column=5; browser_resolution=1699-933; header_theme_version=CLOSE; CURRENT_FNVAL=4048',
             ,
             },
         ],
